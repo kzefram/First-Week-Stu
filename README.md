@@ -14,7 +14,7 @@ To use this Student Bio, you can review the information presented in each sectio
 
 ## Credits
 
-Karen Bourgeois,
+Karen Bourgeois
 
 ## License
 
@@ -36,7 +36,7 @@ There are clickable links in the contact information.
 
 ## How to Contribute
 
-I would appreciate any insight to making it more functional and pretty. I'm also looking to put in pages for how to do something step by step; example: cloning and creating a branch on GitHub using Git Bash and putting changes made on GitHub using Git Bash.
+I would appreciate any insight to making the site more appealling. Thank You!
 
 ## Tests
 
